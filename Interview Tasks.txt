@@ -1,0 +1,44 @@
+﻿Task 1: Technical Analysis of Autonomous Vehicle Technology
+Objective:
+Develop a comprehensive technical report on autonomous vehicle technology, covering all key technological elements, industry trends, and major stakeholders. The report should be interactive and data-driven, leveraging PowerPoint (PPT) or Power BI for visualization, and incorporating insightful coding elements where applicable.
+Key Deliverables:
+1. Technology Breakdown:
+   * Overview of autonomous vehicle (AV) technology and levels of automation (SAE Levels 0-5).
+   * Core enabling technologies, for example: 
+      * Sensors (LiDAR, radar, cameras, ultrasonic sensors).
+      * AI & Machine Learning in perception and decision-making.
+      * Vehicle-to-Everything (V2X) communication.
+      * High-Definition (HD) mapping and localization.
+      * Computing infrastructure (edge/cloud computing, AI chips).
+2. Industry Landscape & Key Players:
+   * Overview of global leaders in AV development (Tesla, Waymo, Baidu, Mobileye, etc.).
+   * Comparative analysis of technological approaches adopted by different companies.
+   * Key regulatory and legal challenges impacting AV deployment.
+3. Implementation & Use Cases:
+   * AV applications in public transport, logistics, and shared mobility.
+   * Success stories and case studies of real-world deployments.
+4. Data-Driven Insights & Coding Component:
+   * Use Python or relevant programming tools to analyze AV datasets (e.g., sensor data processing, AI model demonstration, or traffic pattern prediction).
+   * Provide interactive Power BI visualizations for key trends and insights.
+Expected Output Format:
+* PowerPoint presentation (well-structured, with visuals and data insights) OR
+* Power BI dashboard (interactive, with dynamic insights and coding-based analytics).
+
+
+Task 2: Strategic Comparative Analysis – Plug-in Hybrid DMi vs EV vs ICE
+Objective:
+Develop a strategic comparative report evaluating Plug-in Hybrid DMi (Dual Mode Intelligent), Battery Electric Vehicles (EVs), and Internal Combustion Engine (ICE) Vehicles based on key performance indicators (KPIs) using Power BI for data visualization.
+Key Deliverables:
+1. Technology Overview:
+   * Explanation of Plug-in Hybrid DMi, EV, and ICE powertrains.
+   * Breakdown of key components, energy sources, and drivetrain efficiency.
+2. Comparative Performance Analysis:
+   * Energy Efficiency
+   * Environmental Impact
+   * Total Cost of Ownership (TCO) – use Chinese vehicles as a reference 
+   * Range & Refueling/Recharging Time
+   * Market Trends & Adoption
+3. Data-Driven Insights & Power BI Visualizations:
+   * Utilize real-world public data sets to generate comparative Power BI dashboards.
+   * Provide dynamic filters for energy cost comparisons across different regions.
+   * Include predictive analysis on future trends using basic Python or statistical modeling.
